@@ -8,3 +8,8 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/c19d067d-be80-4af8-a1bc-e9eed2370a09" width="300"/>
 
+<hr>
+<br>
+<div align="center">
+<h1>Sobre mi🤔​</h1>
+
